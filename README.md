@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey!
 
-<!--
-**omarkurt/omarkurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![logo](https://raw.githubusercontent.com/amypeniston/game-of-life/master/assets/icon.gif)
 
-Here are some ideas to get you started:
+🥷 I'm **Omar**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🥇 I am part of @happyhackingspace.
+
+㊙️ @Rosecurify
+
+
+
+[![pgp](https://img.shields.io/badge/pgp-0x8267E6B1C86D1105-313131?style=flat&labelColor=545454&color=313131)](https://github.com/omarkurt.gpg) 
+
+
+<br>
+<br>
+<br>
+<br>
